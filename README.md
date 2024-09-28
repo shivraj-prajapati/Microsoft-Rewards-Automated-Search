@@ -21,7 +21,7 @@ git clone https://github.com/your-username/Microsoft-Rewards-Automated-Search.gi
 pip install pyautogui
 ```
 
-### Prepare the `questions.py` file with a list of queries. Example:
+### `questions.py` file is already given you can add more questions if you want. Example:
 ```python
 questions = [
     "What is polymorphism in Java?",
