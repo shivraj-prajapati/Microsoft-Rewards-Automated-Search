@@ -13,7 +13,7 @@ This repository contains a Python script that automates searches in Microsoft Ed
 
 ### Clone this repository:
 ```bash
-git clone https://github.com/your-username/Microsoft-Rewards-Automated-Search.git
+git clone https://github.com/shivraj-prajapati/Microsoft-Rewards-Automated-Search.git
 ```
 
 ### Install the required dependencies:
